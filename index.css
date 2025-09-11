@@ -1,0 +1,12 @@
+.myheaderstyle{
+    color:darkorange;
+    background-color: lavender;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2px;
+}
+.mystyle{
+    color:lavenderblush;
+    background-color: ivory;
+    font-family: monospace;
+    padding: 5px;
+}
